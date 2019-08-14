@@ -1,4 +1,10 @@
-MarkPushed = false
+# ------------------------------------------------------------------------------
+#  Copyright (c) 2019 Infiot Inc.
+#  All Rights Reserved.
+#  SPDX-License-Identifier: Apache-2.0
+# ------------------------------------------------------------------------------
+
+MarkPushed = true
 
 [Service]
 BootTimeout = 30000
